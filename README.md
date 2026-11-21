@@ -27,6 +27,32 @@
 
 <br/>
 
+<div align="center">
+
+## 🏅 Stats
+
+<a href="https://github.com/liamgeni">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=liamgeni&show_icons=true&count_private=true&include_all_commits=true&theme=github_dark&bg_color=0d1117&title_color=3a7bd5&icon_color=3a7bd5&border_radius=10&rank_icon=github"/>
+</a>
+<a href="https://github.com/liamgeni">
+  <img width="49%" src="https://streak-stats.demolab.com?user=liamgeni&theme=github-dark-blue&background=0d1117&ring=3a7bd5&fire=3a7bd5&currStreakLabel=3a7bd5&border_radius=10"/>
+</a>
+
+<br/>
+
+<img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=liamgeni&theme=github-compact&bg_color=0d1117&color=3a7bd5&line=3a7bd5&point=ffffff&area=true&hide_border=false&radius=10"/>
+
+<br/><br/>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/liamgeni/liamgeni/output/github-snake-dark.svg"/>
+  <img width="98%" src="https://raw.githubusercontent.com/liamgeni/liamgeni/output/github-snake.svg" alt="contribution snake"/>
+</picture>
+
+</div>
+
+<br/>
+
 ## 🧭 About Me
 
 - 🎬 **지금** — CJ ENM 방송 콘텐츠 통합 CMS **COCOS** 개발·운영
@@ -38,6 +64,10 @@
 <br/>
 
 ## 🛠 Tech Stack
+
+<details>
+<summary><b>⚙️ Backend · 🎨 Frontend · 🗄️ DB · ☁️ Infra · 🤖 AI</b> &nbsp;<code>펼쳐보기</code></summary>
+<br/>
 
 <h4 align="center">⚙️ Backend</h4>
 
@@ -113,6 +143,8 @@
   </tr>
 </table>
 </div>
+
+</details>
 
 <br/>
 
@@ -202,29 +234,5 @@
 </details>
 
 <br/>
-
-<div align="center">
-
-## 🏅 Stats
-
-<a href="https://github.com/liamgeni">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=liamgeni&show_icons=true&count_private=true&include_all_commits=true&theme=github_dark&bg_color=0d1117&title_color=3a7bd5&icon_color=3a7bd5&border_radius=10&rank_icon=github"/>
-</a>
-<a href="https://github.com/liamgeni">
-  <img width="49%" src="https://streak-stats.demolab.com?user=liamgeni&theme=github-dark-blue&background=0d1117&ring=3a7bd5&fire=3a7bd5&currStreakLabel=3a7bd5&border_radius=10"/>
-</a>
-
-<br/>
-
-<img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=liamgeni&theme=github-compact&bg_color=0d1117&color=3a7bd5&line=3a7bd5&point=ffffff&area=true&hide_border=false&radius=10"/>
-
-<br/><br/>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/liamgeni/liamgeni/output/github-snake-dark.svg"/>
-  <img width="98%" src="https://raw.githubusercontent.com/liamgeni/liamgeni/output/github-snake.svg" alt="contribution snake"/>
-</picture>
-
-</div>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:3a7bd5,100:1e3c72&height=120&section=footer"/>
