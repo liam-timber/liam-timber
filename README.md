@@ -13,7 +13,23 @@ API 1,100여 개 규모의 방송 CMS를 TDD로 운영하고, 얼굴 인식 인�
 [![Email](https://img.shields.io/badge/Email-03C75A?style=for-the-badge&logo=naver&logoColor=white)](mailto:gijae8783@naver.com)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/liamgeni)
 
+<br/><br/>
+
+<img src="https://skillicons.dev/icons?i=java,spring,python,react,nextjs,ts,mysql,postgres,redis,docker,aws,fastapi,php,laravel,jenkins&perline=15" alt="Core skills"/>
+
 </div>
+
+---
+
+## 💡 Core Skills
+
+| | 역량 | 한 줄 요약 |
+| :---: | :--- | :--- |
+| 🏗️ | **백엔드 API 개발** | Spring Boot · JPA · QueryDsl / FastAPI / Laravel로 RESTful API 설계·개발 |
+| ⚡ | **성능 최적화** | 부하 테스트로 병목을 찾아 동시접속 10배, 쿼리 응답 75% 개선 |
+| 🎬 | **대규모 서비스 운영** | API 1,100여 개 규모 방송 CMS를 TDD로 개발하고, 주말 포함 실시간 장애 대응 |
+| 🤖 | **AI 서비스 개발** | ArcFace · Milvus 얼굴 인식 인물 검색, A2A Streaming AI Agent 챗봇 |
+| 🚢 | **인프라 · CI/CD** | Jenkins · GitLab CI/CD 구축, 금융 폐쇄망 무중단 배포 |
 
 ---
 
