@@ -2,33 +2,40 @@
 
 <div align="center">
 
-### 문제를 숫자로 풀어내는 풀스택 개발자
+<img src="https://readme-typing-svg.demolab.com?font=Noto+Sans+KR&weight=700&size=24&duration=2800&pause=1200&color=3A7BD5&center=true&vCenter=true&width=620&height=50&lines=%EB%AC%B8%EC%A0%9C%EB%A5%BC+%EC%88%AB%EC%9E%90%EB%A1%9C+%ED%92%80%EC%96%B4%EB%82%B4%EB%8A%94+%ED%92%80%EC%8A%A4%ED%83%9D+%EA%B0%9C%EB%B0%9C%EC%9E%90;%EA%B8%88%EC%9C%B5+%C2%B7+%EB%8D%B0%EC%9D%B4%ED%84%B0+%EC%88%98%EC%A7%91%EC%97%90+%EA%B4%80%EC%8B%AC%EC%9D%B4+%EB%A7%8E%EC%8A%B5%EB%8B%88%EB%8B%A4;API+1%2C100%EC%97%AC+%EA%B0%9C+%EA%B7%9C%EB%AA%A8+%EC%84%9C%EB%B9%84%EC%8A%A4%EB%A5%BC+%EC%9A%B4%EC%98%81%ED%95%A9%EB%8B%88%EB%8B%A4" alt="문제를 숫자로 풀어내는 풀스택 개발자"/>
 
 핀테크 스타트업 · 금융 AI 조직 · 방송 미디어 SI를 거친 **4년 차 풀스택 개발자**입니다.
 
 </div>
 
-> 🛠️ **유지보수 · 운영** — 6년 넘게 운영된 **약 65만 줄, API 1,100여 개** 규모의 방송 CMS를 TDD로 개발하며 주말까지 실시간 장애에 대응하고 있습니다.
-> 운영 시스템의 **보안 취약점 조치**를 서비스 중단 없이 반영했고, CDN 저장 용량을 **83% 절감**했습니다.
->
-> 💹 **금융 도메인** — 핀테크사와 자산운용사 자회사에서 주식 교육 앱(Dayup), AI 투자 플랫폼(탱고픽), SK AI 올라 · AI 런닝메이트를 개발·운영했습니다.
-> 외부 접근이 막힌 **금융 폐쇄망(Fin-nCloud)** 에서 무중단 배포 체계를 만들고, 증권사 제휴 트래픽에 대비해 동시접속을 **50명 → 500명**으로 늘렸습니다.
->
-> 📡 **데이터 수집** — 증권사 Open API로 **실시간 시세 · TR 데이터 수집 서버**를 만들고, 재시도 · 로컬 캐싱 · 백업 저장소로 외부 장애에도 데이터가 유실되지 않게 했습니다.
-> 장 시작부터 마감까지 사람 손 없이 도는 수집 체계를 운영했고, 지금은 KRX · DART · 증권사 데이터를 모으는 퀀트 리서치 플랫폼 **finminer** 를 만들고 있습니다.
+<br/>
 
----
+> ### 🛠️ 유지보수 · 운영
+> - 6년 넘게 운영된 **65만 줄 · API 1,100여 개** 규모 방송 CMS를 TDD로 개발·운영
+> - 주말 포함 실시간 장애 대응, 보안 취약점을 **서비스 중단 없이** 조치
+> - CDN 저장 용량 **83% 절감** (32TB → 5.5TB)
+
+> ### 💹 금융 도메인
+> - 핀테크사 · 자산운용사 자회사에서 **Dayup**, **탱고픽**, **SK AI 올라 · AI 런닝메이트** 개발·운영
+> - 외부 접근이 막힌 **금융 폐쇄망(Fin-nCloud)** 무중단 배포 체계 구축
+> - 증권사 제휴 트래픽 대비 동시접속 **50명 → 500명** 확장
+
+> ### 📡 데이터 수집
+> - 증권사 Open API 기반 **실시간 시세 · TR 데이터 수집 서버** 개발
+> - 재시도 · 로컬 캐싱 · 백업 저장소로 외부 장애에도 **데이터 유실 최소화**, 장중 무인 운영
+> - 지금은 KRX · DART · 증권사 데이터를 모으는 퀀트 리서치 플랫폼 **finminer** 개발 중
+
+<br/>
 
 ## 🧭 About Me
 
-- 🎬 **지금:** CJ ENM 방송 콘텐츠 통합 CMS **COCOS** 개발·운영 (API 1,100+ · 배치 130+ · 테이블 370+)
-- 🧑‍💻 **병행 중:** 얼굴 인식(ArcFace + Milvus) 기반 **표준 인물 시스템** 기획 → 배포 → 운영 1인 전담
-- 🔭 **사이드 프로젝트:** **finminer** — 국내 주식 데이터 수집 · 퀀트 리서치 플랫폼
-- 📈 **관심사:** 숫자로 말하는 걸 좋아해요. **금융 · 재무 분석**과 이를 받쳐주는 **데이터 수집 파이프라인**에 관심이 많습니다
-- 🤖 **AI 개발도구:** 팀에서 가장 먼저 도입해 전원이 쓰는 환경으로 정착시켰어요 (Cursor, Claude Code)
-- 🌏 **English:** 미국 교환학생 1년 + LA 국제공항 인턴 1년, 비즈니스 회화 가능
+- 🎬 **지금** — CJ ENM 방송 콘텐츠 통합 CMS **COCOS** 개발·운영
+- 🧑‍💻 **병행 중** — 얼굴 인식 기반 **표준 인물 시스템** 기획부터 운영까지 1인 전담
+- 📈 **관심사** — 숫자로 말하는 걸 좋아해요. **금융 · 재무 분석**과 **데이터 수집 파이프라인**에 관심이 많아요
+- 🤖 **AI 개발도구** — 팀에 가장 먼저 도입해 전원이 쓰는 환경으로 정착 (Cursor, Claude Code)
+- 🌏 **English** — 비즈니스 회화 가능 (미국 교환학생 1년, LA 국제공항 인턴 1년)
 
----
+<br/>
 
 ## 🛠 Tech Stack
 
@@ -107,90 +114,94 @@
 </table>
 </div>
 
----
+<br/>
 
 ## 💼 Experience
 
-| 기간 | 회사 | 하는 일 |
-| :--- | :--- | :--- |
-| **2025.07 ~ 현재** | **(주)제머나이소프트** <sub>CJ ENM 상주</sub> | 방송 콘텐츠 CMS **COCOS** 개발·운영 / 표준 인물 시스템 1인 전담 |
-| **2025.03 ~ 2025.06** | **(주)알파브릿지** <sub>에셋플러스자산운용 자회사</sub> | AI 투자플랫폼 **탱고픽** 운영 · 폐쇄망 무중단 배포 · AI Agent 챗봇 |
-| **2023.02 ~ 2025.02** | **(주)이지테크핀** | 주식 교육 앱 **Dayup** API·백오피스 · 실시간 주식 데이터 수집 서버 |
-
 <details>
-<summary><b>🎬 제머나이소프트 — 주요 성과 펼쳐보기</b></summary>
+<summary><b>🎬 (주)제머나이소프트</b> · CJ ENM 상주 &nbsp;<code>2025.07 ~ 현재</code></summary>
 <br/>
 
-- **TDD 기반 대규모 시스템 운영** — 6년 넘게 운영된 약 65만 줄 코드베이스에 TDD를 적용해 배포 후 에러 없이 기능 반영
-- **CDN 용량 절감 (1인)** — 2년 경과 클립 화질 축소 정책 설계, **32TB → 5.5TB (83% 절감)**
-- **플랫폼 전송 큐 설계 (1인)** — 전송 요청을 큐 테이블로 모으고 동시 처리량을 제한해 마감 있는 전송을 제때 처리
-- **보안 취약점 대응** — 5개 저장소를 PHP 7.2/Laravel 5.8 → **PHP 8.3/Laravel 13**으로 업그레이드, 시나리오 462건 검토, 서비스 중단 없이 반영
-- **외부 AI 자막 서비스(SUBSY) 연동** — 외부 접근이 막힌 환경에서 스펙 협의부터 폴링 방식 구현까지 주도
-- **표준 인물 시스템 (1인)** — Next.js + FastAPI + Milvus, ArcFace 512차원 임베딩으로 처음 보는 사진도 **유사도 96.4%** 매칭, 회사 SSO(OIDC) 연동
+**방송 콘텐츠 통합 CMS COCOS 개발·운영 + 표준 인물 시스템 1인 전담**
+
+- **TDD 기반 대규모 운영** — 65만 줄 코드베이스에서 배포 후 에러 없이 기능 반영
+- **CDN 용량 절감** `1인` — 2년 지난 클립 화질 축소 정책, **32TB → 5.5TB (−83%)**
+- **플랫폼 전송 큐 설계** `1인` — 동시 처리량을 제한해 마감 있는 전송을 제때 처리
+- **보안 취약점 조치** — 5개 저장소, 시나리오 462건 검토 후 **서비스 중단 없이** 반영
+- **AI 자막 서비스 연동** — 외부 접근이 막힌 환경에서 스펙 협의 → 폴링 방식 구현 주도
+- **표준 인물 시스템** `1인` — ArcFace + Milvus 얼굴 검색, 처음 보는 사진도 **유사도 96.4%** 매칭
 
 </details>
 
 <details>
-<summary><b>📈 알파브릿지 — 주요 성과 펼쳐보기</b></summary>
+<summary><b>🏦 (주)알파브릿지</b> · 에셋플러스자산운용 자회사 &nbsp;<code>2025.03 ~ 2025.06</code></summary>
 <br/>
 
-- **제휴 트래픽 대비 (1인)** — 부하 테스트 후 Docker scale-out과 CDN 캐시 적용, **동시접속 50 → 500명 / 처리 인원 2,000 → 5,000명**
-- **폐쇄망 무중단 배포** — 외부 접근이 차단된 Fin-nCloud 환경에 맞는 무중단 배포 파이프라인 설계·구축
-- **AI Agent 챗봇** — Google ADK 기반, A2A 프로토콜 실시간 Streaming 응답 구현
+**AI 투자 플랫폼 탱고픽 · SK AI 올라 · AI 런닝메이트 운영**
+
+- **제휴 트래픽 대비** `1인` — Docker scale-out + CDN 캐시, 동시접속 **50 → 500명**, 처리 인원 **2,000 → 5,000명**
+- **폐쇄망 무중단 배포** — Fin-nCloud 환경에 맞춘 무중단 배포 파이프라인 구축
+- **AI Agent 챗봇** — Google ADK 기반, A2A 프로토콜 실시간 Streaming 응답
 
 </details>
 
 <details>
-<summary><b>💹 이지테크핀 — 주요 성과 펼쳐보기</b></summary>
+<summary><b>💹 (주)이지테크핀</b> · 핀테크 &nbsp;<code>2023.02 ~ 2025.02</code></summary>
 <br/>
 
-- **API 성능 병목 해결 (1인)** — K6 부하 테스트와 Whatap 모니터링으로 병목을 찾아 QueryDsl 최적화, **1200ms → 300ms (75% 개선)**
-- **배포 자동화 (1인)** — Jenkins + AWS CI/CD 구축, **배포 5분 → 5초**
-- **실시간 주식 데이터 수집 (1인)** — Python + Redis 수집 서버, 재시도·로컬 캐싱·백업 저장소로 외부 API 장애 시에도 데이터 유실 최소화, 장 시작부터 마감까지 무인 운영
+**주식 교육 앱 Dayup API · 백오피스, 실시간 주식 데이터 수집 서버**
+
+- **API 성능 개선** `1인` — K6 · Whatap으로 병목 추적 후 QueryDsl 최적화, **1200ms → 300ms**
+- **배포 자동화** `1인` — Jenkins + AWS CI/CD, 배포 **5분 → 5초**
+- **실시간 주식 데이터 수집** `1인` — 재시도 · 로컬 캐싱 · 백업으로 장애 시 유실 최소화, 장중 무인 운영
 
 </details>
 
----
+<br/>
 
 ## 🚀 Side Projects
 
 <details>
-<summary><b>📈 finminer — 국내 주식 데이터 수집 · 퀀트 리서치 플랫폼</b> &nbsp;<code>진행 중</code></summary>
+<summary><b>📈 finminer</b> · 국내 주식 데이터 수집 · 퀀트 리서치 플랫폼 &nbsp;<code>진행 중</code></summary>
 <br/>
 
-KOSPI·KOSDAQ 전 종목의 시세·재무·배당·공시를 여러 출처에서 모아, 종목 정보 서비스와 백테스트에 쓸 수 있는 데이터로 쌓는 플랫폼입니다.
+**KOSPI · KOSDAQ 전 종목의 시세 · 재무 · 배당 · 공시를 모아 백테스트용 데이터로 쌓는 플랫폼**
 
-- **다중 출처 수집** — KRX, DART, 증권사 Open API를 출처별 어댑터로 묶고, 호출 제한은 Redis 토큰 버킷으로 분산
-- **백테스트 수준의 정확도** — 상장폐지 종목 포함(생존자 편향 방지), 정정공시 버전 보관(point-in-time), 원주가·수정주가 분리
+- **다중 출처 수집** — KRX · DART · 증권사 Open API를 출처별 어댑터로, 호출 제한은 Redis 토큰 버킷으로 분산
+- **백테스트 수준의 정확도** — 상장폐지 종목 포함, 정정공시 버전 보관(point-in-time), 원주가 · 수정주가 분리
 - **실시간 + 배치** — Redis Streams 작업 큐, WebSocket 실시간 시세, 1분봉 기반 다중 주기 차트
 
-`Kotlin` `Spring Boot` `Python` `MySQL` `Redis` &nbsp;·&nbsp; <sub>🔒 비공개로 진행 중</sub>
+`Kotlin` `Spring Boot` `Python` `MySQL` `Redis` &nbsp;🔒 <sub>비공개</sub>
 
 </details>
 
 <details>
-<summary><b>🛒 네이버페이 → GA4 구매 추적 시스템</b> &nbsp;<code>2024.11 ~ 2025.12 운영</code></summary>
+<summary><b>🛒 네이버페이 → GA4 구매 추적</b> · 쇼핑몰 마케팅 분석 &nbsp;<code>2024.11 ~ 2025.12</code></summary>
 <br/>
 
-쇼핑몰의 네이버페이 결제가 GA4에 잡히지 않던 문제를 해결하려고, 네이버페이 Open API의 구매 데이터를 GA4로 보내는 시스템을 AWS에 직접 구축했습니다.
-RDS 퍼블릭 액세스를 막고 EC2로만 연결하는 구조로 바꿔 보안을 높이고 **월 비용을 $10 → $1.5**로 줄였습니다.
+**네이버페이 결제가 GA4에 잡히지 않던 문제를 해결한 구매 추적 시스템**
+
+- **구매 데이터 연동** — 네이버페이 Open API 구매 데이터를 GA4로 전송, AWS에 직접 구축
+- **보안 · 비용 개선** — RDS 퍼블릭 액세스 차단 + EC2 연결 구조, 월 비용 **$10 → $1.5**
 
 `Java 11` `Spring Boot` `JPA` `GitHub Actions` `AWS`
 
 </details>
 
 <details>
-<summary><b>🔐 방탈출 정보 사이트 — 백엔드 팀장</b> &nbsp;<code>2022.09 ~ 2022.12</code></summary>
+<summary><b>🔐 방탈출 정보 사이트</b> · 백엔드 팀장 &nbsp;<code>2022.09 ~ 2022.12</code></summary>
 <br/>
 
-업체 124개·테마 480개 데이터를 수집·적재하고, REST API와 AWS 인프라(EC2·S3·RDS·Route53·CodeDeploy)를 구축했습니다.
-QueryDsl Projections로 필요한 컬럼만 DTO로 조회하도록 바꾸고 repository/service 역할을 나눴습니다.
+**업체 124개 · 테마 480개 정보를 모은 방탈출 정보 서비스**
+
+- **데이터 · 인프라** — 업체 · 테마 데이터 수집 · 적재, AWS(EC2 · S3 · RDS · Route53 · CodeDeploy) 구축
+- **조회 최적화** — QueryDsl Projections로 필요한 컬럼만 DTO 조회, repository / service 역할 분리
 
 `Spring Boot` `JPA` `QueryDsl` `AWS`
 
 </details>
 
----
+<br/>
 
 <div align="center">
 
@@ -209,7 +220,10 @@ QueryDsl Projections로 필요한 컬럼만 DTO로 조회하도록 바꾸고 rep
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=liamgeni&label=Profile%20views&color=3a7bd5&style=flat-square"/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/liamgeni/liamgeni/output/github-snake-dark.svg"/>
+  <img width="98%" src="https://raw.githubusercontent.com/liamgeni/liamgeni/output/github-snake.svg" alt="contribution snake"/>
+</picture>
 
 </div>
 
