@@ -1,6 +1,6 @@
-<div align="center">
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:3a7bd5,100:1e3c72&height=220&section=header&text=Hello%20World%20👋%20I'm%20Gijae&fontColor=ffffff&fontSize=48&fontAlignY=38&desc=Full-Stack%20Developer&descAlignY=58&descSize=20&animation=fadeIn"/>
 
-# 안녕하세요, 이기재입니다 👋
+<div align="center">
 
 ### 문제를 숫자로 풀어내는 풀스택 개발자
 
@@ -191,17 +191,23 @@ QueryDsl Projections로 필요한 컬럼만 DTO로 조회하도록 바꾸고 rep
 - 🧑‍🏫 항해99 웹 개발 종합반 (2022.09 ~ 2022.12)
 - 🪖 해병대 만기 제대
 
-<!--
-## 📊 GitHub Stats (선택)
-외부 서비스(github-readme-stats)라 가끔 이미지가 안 뜰 수 있습니다. 쓰려면 주석을 해제하세요.
+---
 
 <div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=liamgeni&show_icons=true&count_private=true"/>
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=liamgeni&layout=compact"/>
-</div>
--->
 
-<div align="center">
+## 🏅 Stats
+
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=liamgeni&show_icons=true&count_private=true&include_all_commits=true&theme=github_dark&hide_border=false&border_radius=10"/>
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=liamgeni&layout=compact&theme=github_dark&border_radius=10"/>
+
 <br/>
-<sub>Thanks for visiting! ✨</sub>
+
+<img src="https://streak-stats.demolab.com?user=liamgeni&theme=github-dark-blue&border_radius=10" alt="GitHub Streak"/>
+
+<br/><br/>
+
+<img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fliamgeni&count_bg=%233A7BD5&title_bg=%23555555&icon=github.svg&icon_color=%23FFFFFF&title=hits&edge_flat=false"/>
+
 </div>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:3a7bd5,100:1e3c72&height=120&section=footer"/>
