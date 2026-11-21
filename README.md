@@ -31,12 +31,7 @@
 
 ## 🏅 Stats
 
-<a href="https://github.com/liamgeni">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=liamgeni&show_icons=true&count_private=true&include_all_commits=true&theme=github_dark&bg_color=0d1117&title_color=3a7bd5&icon_color=3a7bd5&border_radius=10&rank_icon=github"/>
-</a>
-<a href="https://github.com/liamgeni">
-  <img height="180" src="https://streak-stats.demolab.com?user=liamgeni&theme=github-dark-blue&background=0d1117&ring=3a7bd5&fire=3a7bd5&currStreakLabel=3a7bd5&border_radius=10"/>
-</a>
+<a href="https://github.com/liamgeni"><img width="49%" src="https://github-readme-stats.vercel.app/api?username=liamgeni&show_icons=true&count_private=true&include_all_commits=true&theme=github_dark&bg_color=0d1117&title_color=3a7bd5&icon_color=3a7bd5&border_radius=10&rank_icon=github&card_width=495"/></a><a href="https://github.com/liamgeni"><img width="49%" src="https://streak-stats.demolab.com?user=liamgeni&theme=github-dark-blue&background=0d1117&ring=3a7bd5&fire=3a7bd5&currStreakLabel=3a7bd5&border_radius=10"/></a>
 
 
 </div>
