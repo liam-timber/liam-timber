@@ -4,7 +4,7 @@
 
 ### 문제를 숫자로 풀어내는 풀스택 개발자
 
-핀테크 스타트업 · 금융 AI 조직 · 방송 미디어 SI를 거친 **3년 9개월 차 풀스택 개발자**입니다.<br/>
+핀테크 스타트업 · 금융 AI 조직 · 방송 미디어 SI를 거친 **4년 차 풀스택 개발자**입니다.<br/>
 API 1,100여 개 규모의 방송 CMS를 TDD로 운영하고, 얼굴 인식 인물 검색 시스템을 기획부터 운영까지 1인으로 맡았습니다.
 
 <br/>
@@ -12,30 +12,6 @@ API 1,100여 개 규모의 방송 CMS를 TDD로 운영하고, 얼굴 인식 인�
 [![Blog](https://img.shields.io/badge/Tech_Blog-FF5A4A?style=for-the-badge&logo=tistory&logoColor=white)](https://1sangcoder.tistory.com/)
 [![Email](https://img.shields.io/badge/Email-03C75A?style=for-the-badge&logo=naver&logoColor=white)](mailto:gijae8783@naver.com)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/liamgeni)
-
-</div>
-
----
-
-## 💡 Core Skills
-
-| | 역량 | 한 줄 요약 |
-| :---: | :--- | :--- |
-| 🏗️ | **백엔드 API 개발** | Spring Boot · JPA · QueryDsl / FastAPI / Laravel로 RESTful API 설계·개발 |
-| ⚡ | **성능 최적화** | 부하 테스트로 병목을 찾아 동시접속 10배, 쿼리 응답 75% 개선 |
-| 🎬 | **대규모 서비스 운영** | API 1,100여 개 규모 방송 CMS를 TDD로 개발하고, 주말 포함 실시간 장애 대응 |
-| 🤖 | **AI 서비스 개발** | ArcFace · Milvus 얼굴 인식 인물 검색, A2A Streaming AI Agent 챗봇 |
-| 🚢 | **인프라 · CI/CD** | Jenkins · GitLab CI/CD 구축, 금융 폐쇄망 무중단 배포 |
-
----
-
-## 📊 Impact in Numbers
-
-<div align="center">
-
-| 🚀 동시접속 | ⚡ API 응답 | 💾 CDN 용량 | 🔁 배포 시간 | 🧑‍🤝‍🧑 인물 DB 통합 |
-| :---: | :---: | :---: | :---: | :---: |
-| **50 → 500명**<br/><sub>Docker scale-out</sub> | **1200 → 300ms**<br/><sub>QueryDsl 최적화</sub> | **32TB → 5.5TB**<br/><sub>83% 절감</sub> | **5분 → 5초**<br/><sub>Jenkins CI/CD</sub> | **4,381명**<br/><sub>1인 전담 구축</sub> |
 
 </div>
 
