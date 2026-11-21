@@ -13,10 +13,6 @@ API 1,100여 개 규모의 방송 CMS를 TDD로 운영하고, 얼굴 인식 인�
 [![Email](https://img.shields.io/badge/Email-03C75A?style=for-the-badge&logo=naver&logoColor=white)](mailto:gijae8783@naver.com)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/liamgeni)
 
-<br/><br/>
-
-<img src="https://skillicons.dev/icons?i=java,spring,python,react,nextjs,ts,mysql,postgres,redis,docker,aws,fastapi,php,laravel,jenkins&perline=15" alt="Core skills"/>
-
 </div>
 
 ---
@@ -57,60 +53,38 @@ API 1,100여 개 규모의 방송 CMS를 TDD로 운영하고, 얼굴 인식 인�
 
 ## 🛠 Tech Stack
 
+<div align="center">
+
 <table>
   <tr>
-    <td align="center" width="130"><b>Backend</b></td>
-    <td>
-      <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=openjdk&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white"/>
-      <img src="https://img.shields.io/badge/JPA_·_QueryDsl-59666C?style=flat-square&logo=hibernate&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-      <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"/>
-      <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white"/>
-    </td>
+    <td align="center" width="140"><b>⚙️ Backend</b></td>
+    <td><img src="https://skillicons.dev/icons?i=java,spring,python,fastapi,kotlin,php,laravel" alt="Backend"/><br/><sub>Java · Spring Boot · Python · FastAPI · Kotlin · PHP · Laravel</sub></td>
   </tr>
   <tr>
-    <td align="center"><b>Frontend</b></td>
-    <td>
-      <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
-      <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white"/>
-      <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white"/>
-    </td>
+    <td align="center"><b>🎨 Frontend</b></td>
+    <td><img src="https://skillicons.dev/icons?i=react,nextjs,ts,vue,jquery,bootstrap" alt="Frontend"/><br/><sub>React · Next.js · TypeScript · Vue · jQuery · Bootstrap</sub></td>
   </tr>
   <tr>
-    <td align="center"><b>DB · Cache</b></td>
-    <td>
-      <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
-      <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Milvus-00A1EA?style=flat-square&logo=milvus&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Elasticsearch-005571?style=flat-square&logo=elasticsearch&logoColor=white"/>
-    </td>
+    <td align="center"><b>🗄️ DB · Cache</b></td>
+    <td><img src="https://skillicons.dev/icons?i=mysql,postgres,redis,elasticsearch" alt="DB"/><br/><sub>MySQL · PostgreSQL · Redis · Elasticsearch · Milvus(벡터 DB)</sub></td>
   </tr>
   <tr>
-    <td align="center"><b>Infra · DevOps</b></td>
-    <td>
-      <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white"/>
-      <img src="https://img.shields.io/badge/NCP_Financial-03C75A?style=flat-square&logo=naver&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white"/>
-      <img src="https://img.shields.io/badge/GitLab_CI-FC6D26?style=flat-square&logo=gitlab&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white"/>
-    </td>
+    <td align="center"><b>☁️ Infra · DevOps</b></td>
+    <td><img src="https://skillicons.dev/icons?i=aws,docker,linux,nginx,jenkins,gitlab,githubactions" alt="Infra"/><br/><sub>AWS · NCP(Financial) · Docker · Linux · Nginx · Jenkins · GitLab CI · GitHub Actions</sub></td>
   </tr>
   <tr>
-    <td align="center"><b>AI</b></td>
+    <td align="center"><b>🤖 AI</b></td>
     <td>
-      <img src="https://img.shields.io/badge/OpenAI_API-412991?style=flat-square&logo=openai&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Google_ADK-4285F4?style=flat-square&logo=google&logoColor=white"/>
-      <img src="https://img.shields.io/badge/ArcFace-FF6F00?style=flat-square&logo=onnx&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Claude_Code-D97757?style=flat-square&logo=claude&logoColor=white"/>
+      <img src="https://img.shields.io/badge/OpenAI_API-412991?style=for-the-badge&logo=openai&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Claude_Code-D97757?style=for-the-badge&logo=claude&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Google_ADK-4285F4?style=for-the-badge&logo=google&logoColor=white"/>
+      <img src="https://img.shields.io/badge/ArcFace-FF6F00?style=for-the-badge&logo=onnx&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Milvus-00A1EA?style=for-the-badge&logo=milvus&logoColor=white"/>
     </td>
   </tr>
 </table>
+
+</div>
 
 ---
 
@@ -197,16 +171,20 @@ QueryDsl Projections로 필요한 컬럼만 DTO로 조회하도록 바꾸고 rep
 
 ## 🏅 Stats
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=liamgeni&show_icons=true&count_private=true&include_all_commits=true&theme=github_dark&hide_border=false&border_radius=10"/>
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=liamgeni&layout=compact&theme=github_dark&border_radius=10"/>
+<a href="https://github.com/liamgeni">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=liamgeni&show_icons=true&count_private=true&include_all_commits=true&theme=github_dark&bg_color=0d1117&title_color=3a7bd5&icon_color=3a7bd5&border_radius=10&rank_icon=github"/>
+</a>
+<a href="https://github.com/liamgeni">
+  <img width="49%" src="https://streak-stats.demolab.com?user=liamgeni&theme=github-dark-blue&background=0d1117&ring=3a7bd5&fire=3a7bd5&currStreakLabel=3a7bd5&border_radius=10"/>
+</a>
 
 <br/>
 
-<img src="https://streak-stats.demolab.com?user=liamgeni&theme=github-dark-blue&border_radius=10" alt="GitHub Streak"/>
+<img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=liamgeni&theme=github-compact&bg_color=0d1117&color=3a7bd5&line=3a7bd5&point=ffffff&area=true&hide_border=false&radius=10"/>
 
 <br/><br/>
 
-<img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fliamgeni&count_bg=%233A7BD5&title_bg=%23555555&icon=github.svg&icon_color=%23FFFFFF&title=hits&edge_flat=false"/>
+<img src="https://komarev.com/ghpvc/?username=liamgeni&label=Profile%20views&color=3a7bd5&style=flat-square"/>
 
 </div>
 
