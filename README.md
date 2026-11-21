@@ -17,14 +17,6 @@
 > 📡 **데이터 수집** — 증권사 Open API로 **실시간 시세 · TR 데이터 수집 서버**를 만들고, 재시도 · 로컬 캐싱 · 백업 저장소로 외부 장애에도 데이터가 유실되지 않게 했습니다.
 > 장 시작부터 마감까지 사람 손 없이 도는 수집 체계를 운영했고, 지금은 KRX · DART · 증권사 데이터를 모으는 퀀트 리서치 플랫폼 **finminer** 를 만들고 있습니다.
 
-<div align="center">
-
-<br/>
-
-[![Blog](https://img.shields.io/badge/Tech_Blog-FF5A4A?style=for-the-badge&logo=tistory&logoColor=white)](https://1sangcoder.tistory.com/)
-
-</div>
-
 ---
 
 ## 🧭 About Me
@@ -160,9 +152,11 @@
 
 ---
 
-## 🚀 Projects
+## 🚀 Side Projects
 
-### 📈 finminer — 국내 주식 데이터 수집 · 퀀트 리서치 플랫폼 `진행 중`
+<details>
+<summary><b>📈 finminer — 국내 주식 데이터 수집 · 퀀트 리서치 플랫폼</b> &nbsp;<code>진행 중</code></summary>
+<br/>
 
 KOSPI·KOSDAQ 전 종목의 시세·재무·배당·공시를 여러 출처에서 모아, 종목 정보 서비스와 백테스트에 쓸 수 있는 데이터로 쌓는 플랫폼입니다.
 
@@ -172,27 +166,29 @@ KOSPI·KOSDAQ 전 종목의 시세·재무·배당·공시를 여러 출처에�
 
 `Kotlin` `Spring Boot` `Python` `MySQL` `Redis` &nbsp;·&nbsp; <sub>🔒 비공개로 진행 중</sub>
 
-### 🛒 네이버페이 → GA4 구매 추적 시스템 `2024.11 ~ 2025.12 운영`
+</details>
+
+<details>
+<summary><b>🛒 네이버페이 → GA4 구매 추적 시스템</b> &nbsp;<code>2024.11 ~ 2025.12 운영</code></summary>
+<br/>
 
 쇼핑몰의 네이버페이 결제가 GA4에 잡히지 않던 문제를 해결하려고, 네이버페이 Open API의 구매 데이터를 GA4로 보내는 시스템을 AWS에 직접 구축했습니다.
 RDS 퍼블릭 액세스를 막고 EC2로만 연결하는 구조로 바꿔 보안을 높이고 **월 비용을 $10 → $1.5**로 줄였습니다.
 
 `Java 11` `Spring Boot` `JPA` `GitHub Actions` `AWS`
 
-### 🔐 방탈출 정보 사이트 — 백엔드 팀장 `2022.09 ~ 2022.12`
+</details>
+
+<details>
+<summary><b>🔐 방탈출 정보 사이트 — 백엔드 팀장</b> &nbsp;<code>2022.09 ~ 2022.12</code></summary>
+<br/>
 
 업체 124개·테마 480개 데이터를 수집·적재하고, REST API와 AWS 인프라(EC2·S3·RDS·Route53·CodeDeploy)를 구축했습니다.
 QueryDsl Projections로 필요한 컬럼만 DTO로 조회하도록 바꾸고 repository/service 역할을 나눴습니다.
 
 `Spring Boot` `JPA` `QueryDsl` `AWS`
 
----
-
-## 🎓 Etc.
-
-- 🏫 서경대학교 글로벌경영학 졸업 (2024.08)
-- 🧑‍🏫 항해99 웹 개발 종합반 (2022.09 ~ 2022.12)
-- 🪖 해병대 만기 제대
+</details>
 
 ---
 
