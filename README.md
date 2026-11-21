@@ -6,6 +6,19 @@
 
 핀테크 스타트업 · 금융 AI 조직 · 방송 미디어 SI를 거친 **4년 차 풀스택 개발자**입니다.
 
+<br/>
+
+<h3>L.I.A.M.</h3>
+
+<table>
+  <tr>
+    <td align="center" width="170"><h2>L</h2><b>Late-blooming</b><br/><sub>대기만성의</sub></td>
+    <td align="center" width="170"><h2>I</h2><b>Intermediary · Infrastructure</b><br/><sub>기반·기틀이 되는</sub></td>
+    <td align="center" width="170"><h2>A</h2><b>Architect · All-rounder</b><br/><sub>탄탄히 만들어가는 재목</sub></td>
+    <td align="center" width="170"><h2>M</h2><b>Masterpiece</b><br/><sub>끝내 완성될 걸작</sub></td>
+  </tr>
+</table>
+
 </div>
 
 <br/>
@@ -14,7 +27,7 @@
 
 ## 🏅 Stats
 
-<a href="https://github.com/liamgeni"><img width="49%" src="https://github-readme-stats.vercel.app/api?username=liamgeni&show_icons=true&count_private=true&include_all_commits=true&theme=github_dark&bg_color=0d1117&title_color=3a7bd5&icon_color=3a7bd5&border_radius=10&rank_icon=github&card_width=495"/></a><a href="https://github.com/liamgeni"><img width="49%" src="https://streak-stats.demolab.com?user=liamgeni&theme=github-dark-blue&background=0d1117&ring=3a7bd5&fire=3a7bd5&currStreakLabel=3a7bd5&border_radius=10"/></a>
+<a href="https://github.com/liam-timber"><img width="49%" src="https://github-readme-stats.vercel.app/api?username=liam-timber&show_icons=true&count_private=true&include_all_commits=true&theme=github_dark&bg_color=0d1117&title_color=3a7bd5&icon_color=3a7bd5&border_radius=10&rank_icon=github&card_width=495"/></a><a href="https://github.com/liam-timber"><img width="49%" src="https://streak-stats.demolab.com?user=liam-timber&theme=github-dark-blue&background=0d1117&ring=3a7bd5&fire=3a7bd5&currStreakLabel=3a7bd5&border_radius=10"/></a>
 
 
 </div>
