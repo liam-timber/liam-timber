@@ -4,8 +4,20 @@
 
 ### 문제를 숫자로 풀어내는 풀스택 개발자
 
-핀테크 스타트업 · 금융 AI 조직 · 방송 미디어 SI를 거친 **4년 차 풀스택 개발자**입니다.<br/>
-API 1,100여 개 규모의 방송 CMS를 TDD로 운영하고, 얼굴 인식 인물 검색 시스템을 기획부터 운영까지 1인으로 맡았습니다.
+핀테크 스타트업 · 금융 AI 조직 · 방송 미디어 SI를 거친 **4년 차 풀스택 개발자**입니다.
+
+</div>
+
+> 💹 **금융 도메인** — 핀테크사와 자산운용사 자회사에서 주식 교육 앱(Dayup), AI 투자 플랫폼(탱고픽), SK AI 올라 · AI 런닝메이트를 개발·운영했습니다.
+> 외부 접근이 막힌 **금융 폐쇄망(Fin-nCloud)** 에서 무중단 배포 체계를 만들고, 증권사 제휴 트래픽에 대비해 동시접속을 **50명 → 500명**으로 늘렸습니다.
+>
+> 📡 **데이터 수집** — 증권사 Open API로 **실시간 시세 · TR 데이터 수집 서버**를 만들고, 재시도 · 로컬 캐싱 · 백업 저장소로 외부 장애에도 데이터가 유실되지 않게 했습니다.
+> 장 시작부터 마감까지 사람 손 없이 도는 수집 체계를 운영했고, 지금은 KRX · DART · 증권사 데이터를 모으는 퀀트 리서치 플랫폼 **finminer** 를 만들고 있습니다.
+>
+> 🛠️ **유지보수 · 운영** — 6년 넘게 운영된 **약 65만 줄, API 1,100여 개** 규모의 방송 CMS를 TDD로 개발하며 주말까지 실시간 장애에 대응하고 있습니다.
+> 지원이 끝난 PHP 7.2 · Laravel 5.8을 **PHP 8.3 · Laravel 13** 으로 서비스 중단 없이 올렸고, CDN 저장 용량을 **83% 절감**했습니다.
+
+<div align="center">
 
 <br/>
 
@@ -30,37 +42,79 @@ API 1,100여 개 규모의 방송 CMS를 TDD로 운영하고, 얼굴 인식 인�
 
 ## 🛠 Tech Stack
 
-<div align="center">
+<h4 align="center">⚙️ Backend</h4>
 
+<div align="center">
 <table>
   <tr>
-    <td align="center" width="140"><b>⚙️ Backend</b></td>
-    <td><img src="https://skillicons.dev/icons?i=java,spring,python,fastapi,kotlin,php,laravel" alt="Backend"/><br/><sub>Java · Spring Boot · Python · FastAPI · Kotlin · PHP · Laravel</sub></td>
-  </tr>
-  <tr>
-    <td align="center"><b>🎨 Frontend</b></td>
-    <td><img src="https://skillicons.dev/icons?i=react,nextjs,ts,vue,jquery,bootstrap" alt="Frontend"/><br/><sub>React · Next.js · TypeScript · Vue · jQuery · Bootstrap</sub></td>
-  </tr>
-  <tr>
-    <td align="center"><b>🗄️ DB · Cache</b></td>
-    <td><img src="https://skillicons.dev/icons?i=mysql,postgres,redis,elasticsearch" alt="DB"/><br/><sub>MySQL · PostgreSQL · Redis · Elasticsearch · Milvus(벡터 DB)</sub></td>
-  </tr>
-  <tr>
-    <td align="center"><b>☁️ Infra · DevOps</b></td>
-    <td><img src="https://skillicons.dev/icons?i=aws,docker,linux,nginx,jenkins,gitlab,githubactions" alt="Infra"/><br/><sub>AWS · NCP(Financial) · Docker · Linux · Nginx · Jenkins · GitLab CI · GitHub Actions</sub></td>
-  </tr>
-  <tr>
-    <td align="center"><b>🤖 AI</b></td>
-    <td>
-      <img src="https://img.shields.io/badge/OpenAI_API-412991?style=for-the-badge&logo=openai&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Claude_Code-D97757?style=for-the-badge&logo=claude&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Google_ADK-4285F4?style=for-the-badge&logo=google&logoColor=white"/>
-      <img src="https://img.shields.io/badge/ArcFace-FF6F00?style=for-the-badge&logo=onnx&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Milvus-00A1EA?style=for-the-badge&logo=milvus&logoColor=white"/>
-    </td>
+    <td align="center" width="88"><img src="https://skillicons.dev/icons?i=java" width="48" height="48" alt="java"/><br/><sub><b>Java</b></sub></td>
+    <td align="center" width="88"><img src="https://skillicons.dev/icons?i=spring" width="48" height="48" alt="spring"/><br/><sub><b>Spring Boot</b></sub></td>
+    <td align="center" width="88"><img src="https://skillicons.dev/icons?i=kotlin" width="48" height="48" alt="kotlin"/><br/><sub><b>Kotlin</b></sub></td>
+    <td align="center" width="88"><img src="https://skillicons.dev/icons?i=python" width="48" height="48" alt="python"/><br/><sub><b>Python</b></sub></td>
+    <td align="center" width="88"><img src="https://skillicons.dev/icons?i=fastapi" width="48" height="48" alt="fastapi"/><br/><sub><b>FastAPI</b></sub></td>
+    <td align="center" width="88"><img src="https://skillicons.dev/icons?i=php" width="48" height="48" alt="php"/><br/><sub><b>PHP</b></sub></td>
+    <td align="center" width="88"><img src="https://skillicons.dev/icons?i=laravel" width="48" height="48" alt="laravel"/><br/><sub><b>Laravel</b></sub></td>
   </tr>
 </table>
+</div>
 
+<h4 align="center">🎨 Frontend</h4>
+
+<div align="center">
+<table>
+  <tr>
+    <td align="center" width="88"><img src="https://skillicons.dev/icons?i=react" width="48" height="48" alt="react"/><br/><sub><b>React</b></sub></td>
+    <td align="center" width="88"><img src="https://skillicons.dev/icons?i=nextjs" width="48" height="48" alt="nextjs"/><br/><sub><b>Next.js</b></sub></td>
+    <td align="center" width="88"><img src="https://skillicons.dev/icons?i=ts" width="48" height="48" alt="ts"/><br/><sub><b>TypeScript</b></sub></td>
+    <td align="center" width="88"><img src="https://skillicons.dev/icons?i=vue" width="48" height="48" alt="vue"/><br/><sub><b>Vue</b></sub></td>
+    <td align="center" width="88"><img src="https://skillicons.dev/icons?i=jquery" width="48" height="48" alt="jquery"/><br/><sub><b>jQuery</b></sub></td>
+    <td align="center" width="88"><img src="https://skillicons.dev/icons?i=bootstrap" width="48" height="48" alt="bootstrap"/><br/><sub><b>Bootstrap</b></sub></td>
+  </tr>
+</table>
+</div>
+
+<h4 align="center">🗄️ Database · Cache</h4>
+
+<div align="center">
+<table>
+  <tr>
+    <td align="center" width="88"><img src="https://skillicons.dev/icons?i=mysql" width="48" height="48" alt="mysql"/><br/><sub><b>MySQL</b></sub></td>
+    <td align="center" width="88"><img src="https://skillicons.dev/icons?i=postgres" width="48" height="48" alt="postgres"/><br/><sub><b>PostgreSQL</b></sub></td>
+    <td align="center" width="88"><img src="https://skillicons.dev/icons?i=redis" width="48" height="48" alt="redis"/><br/><sub><b>Redis</b></sub></td>
+    <td align="center" width="88"><img src="https://skillicons.dev/icons?i=elasticsearch" width="48" height="48" alt="elasticsearch"/><br/><sub><b>Elasticsearch</b></sub></td>
+    <td align="center" width="88"><img src="https://cdn.simpleicons.org/milvus/00A1EA" width="44" height="44" alt="milvus"/><br/><sub><b>Milvus</b></sub></td>
+  </tr>
+</table>
+</div>
+
+<h4 align="center">☁️ Infra · DevOps</h4>
+
+<div align="center">
+<table>
+  <tr>
+    <td align="center" width="88"><img src="https://skillicons.dev/icons?i=aws" width="48" height="48" alt="aws"/><br/><sub><b>AWS</b></sub></td>
+    <td align="center" width="88"><img src="https://cdn.simpleicons.org/naver/03C75A" width="44" height="44" alt="naver"/><br/><sub><b>NCP</b></sub></td>
+    <td align="center" width="88"><img src="https://skillicons.dev/icons?i=docker" width="48" height="48" alt="docker"/><br/><sub><b>Docker</b></sub></td>
+    <td align="center" width="88"><img src="https://skillicons.dev/icons?i=linux" width="48" height="48" alt="linux"/><br/><sub><b>Linux</b></sub></td>
+    <td align="center" width="88"><img src="https://skillicons.dev/icons?i=nginx" width="48" height="48" alt="nginx"/><br/><sub><b>Nginx</b></sub></td>
+    <td align="center" width="88"><img src="https://skillicons.dev/icons?i=jenkins" width="48" height="48" alt="jenkins"/><br/><sub><b>Jenkins</b></sub></td>
+    <td align="center" width="88"><img src="https://skillicons.dev/icons?i=gitlab" width="48" height="48" alt="gitlab"/><br/><sub><b>GitLab CI</b></sub></td>
+    <td align="center" width="88"><img src="https://skillicons.dev/icons?i=githubactions" width="48" height="48" alt="githubactions"/><br/><sub><b>Actions</b></sub></td>
+  </tr>
+</table>
+</div>
+
+<h4 align="center">🤖 AI</h4>
+
+<div align="center">
+<table>
+  <tr>
+    <td align="center" width="88"><picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@1.71.0/dark/openai.png"/><img src="https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@1.71.0/light/openai.png" width="44" height="44" alt="openai"/></picture><br/><sub><b>OpenAI API</b></sub></td>
+    <td align="center" width="88"><img src="https://cdn.simpleicons.org/claude/D97757" width="44" height="44" alt="claude"/><br/><sub><b>Claude Code</b></sub></td>
+    <td align="center" width="88"><img src="https://cdn.simpleicons.org/google/4285F4" width="44" height="44" alt="google"/><br/><sub><b>Google ADK</b></sub></td>
+    <td align="center" width="88"><img src="https://cdn.simpleicons.org/onnx/8C8C8C" width="44" height="44" alt="onnx"/><br/><sub><b>ArcFace</b></sub></td>
+  </tr>
+</table>
 </div>
 
 ---
