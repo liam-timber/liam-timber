@@ -38,16 +38,6 @@
   <img width="49%" src="https://streak-stats.demolab.com?user=liamgeni&theme=github-dark-blue&background=0d1117&ring=3a7bd5&fire=3a7bd5&currStreakLabel=3a7bd5&border_radius=10"/>
 </a>
 
-<br/>
-
-<img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=liamgeni&theme=github-compact&bg_color=0d1117&color=3a7bd5&line=3a7bd5&point=ffffff&area=true&hide_border=false&radius=10"/>
-
-<br/><br/>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/liamgeni/liamgeni/output/github-snake-dark.svg"/>
-  <img width="98%" src="https://raw.githubusercontent.com/liamgeni/liamgeni/output/github-snake.svg" alt="contribution snake"/>
-</picture>
 
 </div>
 
