@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Noto+Sans+KR&weight=700&size=24&duration=2800&pause=1200&color=3A7BD5&center=true&vCenter=true&width=620&height=50&lines=%EB%AC%B8%EC%A0%9C%EB%A5%BC+%EC%88%AB%EC%9E%90%EB%A1%9C+%ED%92%80%EC%96%B4%EB%82%B4%EB%8A%94+%ED%92%80%EC%8A%A4%ED%83%9D+%EA%B0%9C%EB%B0%9C%EC%9E%90;%EA%B8%88%EC%9C%B5+%C2%B7+%EB%8D%B0%EC%9D%B4%ED%84%B0+%EC%88%98%EC%A7%91%EC%97%90+%EA%B4%80%EC%8B%AC%EC%9D%B4+%EB%A7%8E%EC%8A%B5%EB%8B%88%EB%8B%A4;API+1%2C100%EC%97%AC+%EA%B0%9C+%EA%B7%9C%EB%AA%A8+%EC%84%9C%EB%B9%84%EC%8A%A4%EB%A5%BC+%EC%9A%B4%EC%98%81%ED%95%A9%EB%8B%88%EB%8B%A4" alt="문제를 숫자로 풀어내는 풀스택 개발자"/>
+<img src="https://readme-typing-svg.demolab.com?font=Noto+Sans+KR&weight=700&size=24&duration=2800&pause=1200&color=3A7BD5&center=true&vCenter=true&width=620&height=50&lines=%EB%AC%B8%EC%A0%9C%EB%A5%BC+%EC%88%AB%EC%9E%90%EB%A1%9C+%ED%92%80%EC%96%B4%EB%82%B4%EB%8A%94+%ED%92%80%EC%8A%A4%ED%83%9D+%EA%B0%9C%EB%B0%9C%EC%9E%90;%EA%B8%88%EC%9C%B5+%C2%B7+%EB%8D%B0%EC%9D%B4%ED%84%B0+%EC%88%98%EC%A7%91%EC%97%90+%EA%B4%80%EC%8B%AC%EC%9D%B4+%EB%A7%8E%EC%8A%B5%EB%8B%88%EB%8B%A4;%ED%95%80%ED%85%8C%ED%81%AC+%C2%B7+%EC%9E%90%EC%82%B0%EC%9A%B4%EC%9A%A9+%EC%84%9C%EB%B9%84%EC%8A%A4%EB%A5%BC+%EB%A7%8C%EB%93%A4%EC%96%B4+%EC%99%94%EC%8A%B5%EB%8B%88%EB%8B%A4" alt="문제를 숫자로 풀어내는 풀스택 개발자"/>
 
 핀테크 스타트업 · 금융 AI 조직 · 방송 미디어 SI를 거친 **4년 차 풀스택 개발자**입니다.
 
