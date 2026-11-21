@@ -8,14 +8,12 @@
 
 <br/>
 
-<h3>L.I.A.M.</h3>
-
 <table>
   <tr>
-    <td align="center" width="170"><h2>L</h2><b>Late-blooming</b><br/><sub>대기만성의</sub></td>
-    <td align="center" width="170"><h2>I</h2><b>Intermediary · Infrastructure</b><br/><sub>기반·기틀이 되는</sub></td>
-    <td align="center" width="170"><h2>A</h2><b>Architect · All-rounder</b><br/><sub>탄탄히 만들어가는 재목</sub></td>
-    <td align="center" width="170"><h2>M</h2><b>Masterpiece</b><br/><sub>끝내 완성될 걸작</sub></td>
+    <td align="center" valign="top" width="170"><h3>L</h3><b>Late-blooming</b></td>
+    <td align="center" valign="top" width="170"><h3>I</h3><b>Infrastructure</b></td>
+    <td align="center" valign="top" width="170"><h3>A</h3><b>Architect</b></td>
+    <td align="center" valign="top" width="170"><h3>M</h3><b>Masterpiece</b></td>
   </tr>
 </table>
 
