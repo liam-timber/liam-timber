@@ -8,22 +8,20 @@
 
 </div>
 
+> 🛠️ **유지보수 · 운영** — 6년 넘게 운영된 **약 65만 줄, API 1,100여 개** 규모의 방송 CMS를 TDD로 개발하며 주말까지 실시간 장애에 대응하고 있습니다.
+> 운영 시스템의 **보안 취약점 조치**를 서비스 중단 없이 반영했고, CDN 저장 용량을 **83% 절감**했습니다.
+>
 > 💹 **금융 도메인** — 핀테크사와 자산운용사 자회사에서 주식 교육 앱(Dayup), AI 투자 플랫폼(탱고픽), SK AI 올라 · AI 런닝메이트를 개발·운영했습니다.
 > 외부 접근이 막힌 **금융 폐쇄망(Fin-nCloud)** 에서 무중단 배포 체계를 만들고, 증권사 제휴 트래픽에 대비해 동시접속을 **50명 → 500명**으로 늘렸습니다.
 >
 > 📡 **데이터 수집** — 증권사 Open API로 **실시간 시세 · TR 데이터 수집 서버**를 만들고, 재시도 · 로컬 캐싱 · 백업 저장소로 외부 장애에도 데이터가 유실되지 않게 했습니다.
 > 장 시작부터 마감까지 사람 손 없이 도는 수집 체계를 운영했고, 지금은 KRX · DART · 증권사 데이터를 모으는 퀀트 리서치 플랫폼 **finminer** 를 만들고 있습니다.
->
-> 🛠️ **유지보수 · 운영** — 6년 넘게 운영된 **약 65만 줄, API 1,100여 개** 규모의 방송 CMS를 TDD로 개발하며 주말까지 실시간 장애에 대응하고 있습니다.
-> 지원이 끝난 PHP 7.2 · Laravel 5.8을 **PHP 8.3 · Laravel 13** 으로 서비스 중단 없이 올렸고, CDN 저장 용량을 **83% 절감**했습니다.
 
 <div align="center">
 
 <br/>
 
 [![Blog](https://img.shields.io/badge/Tech_Blog-FF5A4A?style=for-the-badge&logo=tistory&logoColor=white)](https://1sangcoder.tistory.com/)
-[![Email](https://img.shields.io/badge/Email-03C75A?style=for-the-badge&logo=naver&logoColor=white)](mailto:gijae8783@naver.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/liamgeni)
 
 </div>
 
